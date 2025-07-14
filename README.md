@@ -1,5 +1,4 @@
 # HomeBatterySim
-<<<<<<< HEAD
 
 ## Overview
 HomeBatterySim is a simulation toolkit for analyzing the financial and operational benefits of installing a home battery system. It uses real consumption and tariff data (e.g., from Octopus Energy) to estimate potential savings and earnings from battery storage, considering variable import/export rates and battery constraints.
